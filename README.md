@@ -6,6 +6,9 @@ A professional, interactive Valentine-style animation built using Python's `turt
 
 ![Preview](preview.mp4)
 
+<img width="954" height="496" alt="image" src="https://github.com/user-attachments/assets/99782c25-e9b9-4daf-8388-8c584c0bf3a1" />
+
+
 
 This project features:
 
